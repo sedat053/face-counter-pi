@@ -131,8 +131,6 @@ Kamera penceresi açıldığında, yüzler yeşil çerçeveyle gösterilir ve so
 
 ---
 
-## 📜 Lisans
 
-Bu proje eğitim amaçlı hazırlanmıştır. Dilediğiniz gibi kullanabilir, geliştirebilir ve paylaşabilirsiniz. (Önerilen: MIT Lisansı)
 
 
